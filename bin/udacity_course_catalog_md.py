@@ -6,4 +6,4 @@ response = urllib.urlopen('https://udacity.com/public-api/v0/courses')
 json_response = json.loads(response.read())
 for course in json_response['courses']:
     course['homepage'] = course['homepage'][:course['homepage'].find('?')]
-    print "[{} | *Udacity*]({}) **Future**".format(course['title'], course['homepage'])
+    print "- [{} | *Udacity*]({}) **Future**".format(course['title'], course['homepage'])
