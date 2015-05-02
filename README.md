@@ -19,6 +19,7 @@
 ### Android
 - [Developing Android App | *Udacity*](https://www.udacity.com/course/developing-android-apps--ud853) **Future**
 - [UX Design for Mobile Developers | *Udacity*](https://www.udacity.com/course/ux-design-for-mobile-developers--ud849) **Future**
+- [Google Play Services | *Udacity*](https://www.udacity.com/course/google-play-services--ud876) **Future**
 
 ### Databases
 - [Intro to Relational Databases](https://www.udacity.com/course/intro-to-relational-databases--ud197) **Future**
@@ -42,8 +43,19 @@
 - [Applied Cryptography | *Udacity*](https://www.udacity.com/course/applied-cryptography--cs387) **Future**
 - [Authentication & Authorization: OAuth | *Udacity*](https://www.udacity.com/course/authentication-authorization-oauth--ud330) **Future**
 
+### Debugging
+- [Software Debugging | *Udacity*](https://www.udacity.com/course/software-debugging--cs259) **Future**
+
+### Testing
+- [Software Testing | *Udacity*](https://www.udacity.com/course/software-testing--cs258) **Future**
+- [A/B Testing | *Udacity*](https://www.udacity.com/course/ab-testing--ud257) **Future**
+
 ### Business
 - [How to Build a Startup | *Udacity*](https://www.udacity.com/course/how-to-build-a-startup--ep245) **Future**
+
+### Others
+- [Intro to Physics | *Udacity*](https://www.udacity.com/course/intro-to-physics--ph100) **Future**
+- [Intro to Psychology | *Udacity*](https://www.udacity.com/course/intro-to-psychology--ps001) **Future**
 
 
 <!--- - []() **Future** -->
